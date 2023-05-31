@@ -15,7 +15,7 @@ This could be a great way to launch your Django contribution career! :rocket:
 
 ### Cohorts
 
-- No more than 4 Djangonaunts per 1 Navigator[^1] and no more than 8 total Djangonauts in 
+- No more than 4 Djangonauts per 1 Navigator[^1] and no more than 8 total Djangonauts in 
   a group.
 - Every Djangonaut has the same goal and is at a relatively similar level.
 - Programs last three months.
@@ -26,7 +26,7 @@ that cohort members check-in with a form of status update, ask questions and rec
 feedback. Navigators can rotate in attending these "office-hours".
   
 [^1]: Having multiple Djangonauts per Navigator scales better than a 1:1 mentorship 
-  relationship. This has an added benefit that peers can help eachother in a community 
+  relationship. This has an added benefit that peers can help each other in a community 
   setting.
 [^2]: It can be intimidating to post questions and ask for help in very public settings. 
   The program will aim to uplift Djangonauts to be comfortable with this by the end of the 
@@ -37,8 +37,7 @@ feedback. Navigators can rotate in attending these "office-hours".
 
 - Peer mentoring.
 - Clear goals, objectives, and timelines.
-- Each Djangonaut is working towards the same goal. Cohort has an end date/defined 
-  timeframe.
+- All Djangonauts are working towards the same goal.
 - Navigators share time commitments and responsibilities.
 - Exposure to multiple mentorship relationships in an open and collaborative environment.
 
