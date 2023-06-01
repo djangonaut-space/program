@@ -20,10 +20,15 @@ This could be a great way to launch your Django contribution career! :rocket:
 - Every Djangonaut has the same goal and is at a relatively similar level.
 - Programs last three months.
 - Each cohort has access to a private Discord server[^2].
+- Programs receive support from Captains.
 
-Each week there are "office-hours" facilitated by the Navigators with the expectation 
-that cohort members check-in with a form of status update, ask questions and receives 
-feedback. Navigators can rotate in attending these "office-hours".
+Each week there are stand ups facilitated by the Navigators with the expectation that 
+cohort members check-in with a form of status update, ask questions and receives feedback. 
+Navigators can rotate in attending these.
+
+Captains help organise the program and reduce the admin burden for Navigators. They are 
+community managers who help orchastrate the warm, welcoming environment at Django we all
+know and love. :heart:
   
 [^1]: Having multiple Djangonauts per Navigator scales better than a 1:1 mentorship 
   relationship. This has an added benefit that peers can help each other in a community 
@@ -54,3 +59,4 @@ feedback. Navigators can rotate in attending these "office-hours".
 
 - [Djangonaut Guide](djangonauts.md)
 - [Navigator Guide](navigators.md)
+- [Captain Guide](captains.md)
