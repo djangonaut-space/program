@@ -52,6 +52,5 @@ feedback. Navigators can rotate in attending these "office-hours".
 
 ## Important Links
 
-TODO: add links to these guides
-- Djangonaut Guide
-- Navigator Guide
+- [Djangonaut Guide](djangonauts.md)
+- [Navigator Guide](navigators.md)
