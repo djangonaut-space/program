@@ -21,7 +21,7 @@ experience.
 - On Discord 1-2 hours a week to help connect others.
 
 - Set up 1:1 and attend sessions with Djangonauts every 2 weeks to offer support. 
-  This is optional for the Djangonuats, they do not have to use these.
+  This is optional for the Djangonauts, they do not have to use these.
   
 - Attend the program welcome and closing sessions.
 
@@ -35,8 +35,9 @@ experience.
   conversations and sharing in Discord.
 
 As a rough guide, being a Captain should be a 3-5 hour per week commitment for 3 months. 
-During the program, the Djangonauts should become more independent, a drop off of 
-Djangonauts is also expected, and so later in the program time commitments should reduce.
+Later in the program the time commitments may reduce as the Djangonauts should become
+more independent. There may also be a drop off in the number of Djangonauts which would
+also reduce a Captain's time commitments.
 
 We have a fantastic community, and we appreciate the time you dedicate to ensuring 
-its future. :heart:
+its future! :heart:
