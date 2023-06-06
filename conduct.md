@@ -15,7 +15,7 @@ In addition, violations of this code outside these spaces may affect a
 person's ability to participate within them.
 
 If you believe someone is violating the code of conduct, we ask that you
-report it by emailing conduct@djangonaut.space.
+report it by emailing CoC@djangonaut.space.
 
 - **Be friendly and patient.**
 
@@ -69,7 +69,7 @@ report it by emailing conduct@djangonaut.space.
 ## Reporting a code of conduct violation
 
 If you believe someone is violating the code of conduct we ask that you report it
-to the Djangonaut Space organizers by emailing conduct@djangonaut.space. All
+to the Djangonaut Space organizers by emailing CoC@djangonaut.space. All
 reports will be kept confidential. In some cases we may determine that a public
 statement will need to be made. If that's the case, the identities of all victims
 and reporters will remain confidential unless those individuals instruct us otherwise.
