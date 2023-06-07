@@ -28,8 +28,7 @@ above all else. :heart:
 
 ## Expectations
 
-- Good standing throughout the program and uphold our 
-  [Code of Conduct](https://www.djangoproject.com/conduct/).
+- Good standing throughout the program and uphold our [Code of Conduct](conduct.md).
 - Attendance during weekly stand-up meetings between Djangonauts and Navigators. 
   Here you will receive feedback and support.
 - Be helpful to your peers in the program.
@@ -98,7 +97,7 @@ the future if we have budget to support:
 
 ## Resources
 
-- [Code of Conduct](https://www.djangoproject.com/conduct/)
+- [Code of Conduct](conduct.md)
 - [Contributing Guide](https://docs.djangoproject.com/en/dev/internals/contributing/)
 - [Contributing to Django - David Smith - DjangoChat](
   https://djangochat.com/episodes/contributing-to-django-david-smith)
