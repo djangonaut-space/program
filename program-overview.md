@@ -1,0 +1,33 @@
+### OVERVIEW
+Djangonaut Space is a community where open source contributing newcomers, specifically focused on people from historically excluded groups, are welcome and supported to get on their feet to contribute to the Django project.   
+ 
+**Goals**    
+- Increase contribution to and community involvement with Django  
+- Facilitate getting participants started in contributing and guide them to existing resources for continued community and contributions  
+- Provide an actively accessible and inclusive space for mid - higher level Djangonauts.  
+
+### Who are we? 
+
+- Django Girls+ of Django
+- Well into Django but hesitant to contribute
+- Intermediate Pythonistas but new to Django
+- Experienced Contributors to act as peer mentors
+- Open source (Django) projects seeking contributors with "Good first ticket" issues and mentorship availability
+
+### OVERVIEW
+Our aim is to have a 3 month session that is repeated throughout the year. We will host weekly virtual meetings with various topics, guest speakers, and schedule time for virtual co-working. Each session will have the same schedule so new members have a good chance to join and get caught up. We plan to lean heavily on existing infrastructure like discord that is used by Django Contributors today, so the transition after each session is seamless. 
+
+
+### TIMELINE
+
+**First Month**  
+The first month will be focused on introduction to: this program, COC,  what to know before you join, choosing a project or issue, with possible guest speakers and connecting with peer and/or SME mentors. 
+
+**Second Month**    
+The second month we will gain some more traction and will likely have more coworking and debugging days, with another guest speaker, and planned midway check in day.  
+
+**Third Month**  
+The third month we will continue work on the projects and tickets, have guest speakers, and a final demo day with an outro for “what’s next” and “where to continue”. Lastly, we would like to invite members to volunteer as peer mentors for the next session. 
+
+**Proposed guest speakers:**   
+Django Fellow, DSF, DFNA, PSF,  Community focused, Open source contributing focused, Project Specific speakers, Django Social
