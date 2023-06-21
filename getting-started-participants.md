@@ -15,7 +15,7 @@ Because we are an inclusive community with a large range of skill levels we want
 - GitHub has created a great [Contributing Guide](https://opensource.guide/how-to-contribute/) to go over what it's about, the process, and best practices. We'd encourage you to read it over. 
 
 **What are the program expectations?**    
-- You can read our [Navigator Guidelines](https://github.com/djangonaut-space/pilot-program/blob/main/navigators.md) to find more details about the responsibilities and expectations of our participants, or Navigators. 
+- You can read our [Djangonaut Guidelines](https://github.com/djangonaut-space/pilot-program/blob/main/djangonauts.md) to find more details about the responsibilities and expectations of our participants. 
 
 **I want to join, how do I sign up?**
 - Since we have scheduled sessions it will be difficult for members to join mid-session so we encourage you to sign up before the beginning of the session. More information will be available soon. 
