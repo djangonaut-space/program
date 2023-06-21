@@ -1,24 +1,9 @@
 ### Vision :rocket: 
 Djangonaut Space is a community where open source contributing newcomers, specifically people from historically excluded groups, are welcome and supported to get on their feet to contribute to the Django project.
- 
-**Goals**    
-- Increase contribution to and community involvement with Django
-- Facilitate getting participants started in contributing and guide them to existing resources for continued community and contributions
-- Provide an actively accessible and inclusive space for mid - higher level Djangonauts
 
-### Who are we? 
-
-- Django Girls+ of Django
-- Well into Django but hesitant to contribute
-- Intermediate Pythonistas but new to Django
-- Experienced Contributors to act as peer mentors
-- Open source (Django) projects seeking contributors with "Good first ticket" issues and mentorship availability
-
-### OVERVIEW
 Our aim is to have a 3 month session that is repeated throughout the year. We will host weekly virtual meetings with various topics, guest speakers, and schedule time for virtual co-working. Each session will have the same schedule so new members have a good chance to join and get caught up. We plan to lean heavily on existing infrastructure like Discord that is used by Django Contributors today, so the transition after each session is seamless. 
 
-
-### TIMELINE
+### Timeline
 
 **First Month**  
 The first month will be focused on introductions to: this program, code of conduct, what to know before you join, choosing a project or issue, with possible guest speakers and connecting with peer and/or SME mentors. 
