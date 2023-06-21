@@ -1,6 +1,6 @@
 # I want to volunteer, where do I start?
 
-So you know what [we are about](https://github.com/djangonaut-space/pilot-program/blob/main/README.md), you have read our [code of conduct](https://github.com/djangonaut-space/pilot-program/blob/main/conduct.md), and you are interested in volunteering, so what now? First of all, thank you! Our community thrives because of people like you. 
+So you know what [we are about](https://github.com/djangonaut-space/pilot-program/blob/main/README.md), you have read our [code of conduct](https://github.com/djangonaut-space/pilot-program/blob/main/CODE_OF_CONDUCT.md), and you are interested in volunteering, so what now? First of all, thank you! Our community thrives because of people like you.
 
 ## Types of Volunteers
 There are a few ways to volunteer with this community: as a [Navigator](https://github.com/djangonaut-space/pilot-program/blob/main/navigators.md), [Captain](https://github.com/djangonaut-space/pilot-program/blob/main/captains.md), or Organizer. We have summarized those roles here as an overview but please read their detailed guidelines to get a more in-depth understanding of each. 
