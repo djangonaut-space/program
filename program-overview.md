@@ -1,4 +1,4 @@
-### OVERVIEW
+### Vision :rocket: 
 Djangonaut Space is a community where open source contributing newcomers, specifically people from historically excluded groups, are welcome and supported to get on their feet to contribute to the Django project.
  
 **Goals**    
