@@ -60,4 +60,4 @@ know and love. :heart:
 - [Djangonaut Guide](djangonauts.md)
 - [Navigator Guide](navigators.md)
 - [Captain Guide](captains.md)
-- [Code of Conduct](conduct.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
