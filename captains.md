@@ -17,6 +17,9 @@ experience.
 - Your goal is to embody the inclusive warm community that we have at Django. This
   may include celebrating successes or sharing personal stories (humanising yourself and 
   others).
+
+- Manage onboarding for Djangonauts with the program. Help set expectations and get them
+  up to speed. 
   
 - On Discord 1-2 hours a week to help connect others.
 
