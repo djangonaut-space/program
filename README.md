@@ -11,6 +11,16 @@ semi-structured learning environment over the course of three months.
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
 
+<a href="https://twitter.com/djangonautspace">
+  <img src="assets/X.png" alt="icon | X" width="32px"/>
+</a>
+<a href="https://fosstodon.org/@djangonaut@indieweb.social">
+  <img src="assets/mastodon.png" alt="icon | Mastodon" width="32px"/>
+</a>
+<a href="https://www.linkedin.com/company/djangonaut-space/">
+  <img src="assets/linkedin.png" alt="icon | LinkedIn" width="32px"/>
+</a>
+
 ## How this works
 
 ### Cohorts
