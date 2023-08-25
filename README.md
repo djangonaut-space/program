@@ -12,13 +12,25 @@ Want to be involved in the future direction of Django? Confidently vote on propo
 This could be a great way to launch your Django contribution career! :rocket:
 
 <a href="https://twitter.com/djangonautspace">
-  <img src="assets/X.png" alt="icon | X" width="32px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/X-white.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/X.png"/>
+    <img alt="icon | X" src="assets/X.png" width="32px"/>
+  </picture>
 </a>
 <a href="https://fosstodon.org/@djangonaut@indieweb.social">
-  <img src="assets/mastodon.png" alt="icon | Mastodon" width="32px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mastodon-white.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/mastodon.png"/>
+    <img alt="icon | Mastodon" src="assets/mastodon.png" width="32px"/>
+  </picture>
 </a>
 <a href="https://www.linkedin.com/company/djangonaut-space/">
-  <img src="assets/linkedin.png" alt="icon | LinkedIn" width="32px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-white.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/linkedin.png"/>
+    <img alt="icon | LinkedIn" src="assets/linkedin.png" width="32px"/>
+  </picture>
 </a>
 
 ## How this works
