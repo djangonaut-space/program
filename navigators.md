@@ -67,7 +67,7 @@ there to help guide them by sharing your methodologies, resources, tips and expe
 
 - Have some fun and learn together!
 
-As a rough guide, being a Navigator should be roughly a 2 hour per week commitment for 8-weeks. 
+As a rough guide, being a Navigator should be roughly a 2-hour per week commitment for 8 weeks. 
 Later in the program the time commitments may reduce as the Djangonauts should become
 more independent. There may also be a drop off in the number of Djangonauts which would
 also reduce a Navigator's time commitments.
