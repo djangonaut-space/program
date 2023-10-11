@@ -1,19 +1,19 @@
 ## Welcome and Summary
 
 Welcome prospective Djangonaut! 
-This is a group mentoring program where individuals will work self-paced in a 
-semi-structured learning environment over the course of three months.
+This is an 8-week group mentoring program where individuals will work self-paced in a 
+semi-structured learning environment.
 
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
 
-During the three-month period, you will work to level up your Django contributions 
+During the 8-week period, you will work to level up your Django contributions 
 along with peers who have the same goal. This cohort will include Navigators who have 
 specialised knowledge and experience. Think of them as pilots guiding you through the 
 Django universe. :stars:
 
-At the end of the three-month period, you will have a number of contributions credited 
-to your name, be will integrated into the Django contributor community, and have an 
+At the end of the 8-week period, you will have a number of contributions credited 
+to your name, be integrated into the Django contributor community, and have an 
 understanding as to what comes next! :muscle:
 
 **Important Note** 
@@ -99,6 +99,7 @@ the future if we have budget to support:
 
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contributing Guide](https://docs.djangoproject.com/en/dev/internals/contributing/)
+- [Djangonaut Space - Launch](https://www.youtube.com/watch?v=SO5GGTZYK70)
 - [Contributing to Django - David Smith - DjangoChat](
   https://djangochat.com/episodes/contributing-to-django-david-smith)
 - [Feeding the Pony: Contributing back to Django & How to make that work for you - 

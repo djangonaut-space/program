@@ -5,8 +5,8 @@ Djangonauts are members of the community who wish to level up their current Djan
 code contributions and potentially take on leadership roles in Django in the 
 future. :unicorn:
 
-This is a group mentoring program where individuals will work self-paced in a 
-semi-structured learning environment over the course of three months.
+This is an 8-week group mentoring program where individuals will work self-paced in a 
+semi-structured learning environment.
 
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
@@ -40,16 +40,16 @@ This could be a great way to launch your Django contribution career! :rocket:
 - No more than 4 Djangonauts per 1 Navigator[^1] and no more than 8 total Djangonauts in 
   a group.
 - Every Djangonaut has the same goal and is at a relatively similar level.
-- Programs last three months.
+- Programs last 8 weeks.
 - Each cohort has access to a private Discord server[^2].
 - Programs receive support from Captains.
 
-Each week there are stand ups facilitated by the Navigators with the expectation that 
+Each week there are stand-ups facilitated by the Navigators with the expectation that 
 cohort members check-in with a form of status update, ask questions and receives feedback. 
 Navigators can rotate in attending these.
 
 Captains help organise the program and reduce the admin burden for Navigators. They are 
-community managers who help orchastrate the warm, welcoming environment at Django we all
+community managers who help orchestrate the warm, welcoming environment at Django we all
 know and love. :heart:
   
 [^1]: Having multiple Djangonauts per Navigator scales better than a 1:1 mentorship 

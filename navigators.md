@@ -34,22 +34,17 @@ feedback. As well as ensuring all Djangonauts feel included and welcome. :heart:
 
 ## Responsibilities and Expectations
 
-In this 3 month program, Djangonauts will be asked to take responsibility for their 
+In this 8-week program, Djangonauts will be asked to take responsibility for their 
 growth and improvement, as it's a semi-structured self-paced program; however, you are 
 there to help guide them by sharing your methodologies, resources, tips and experience.
 
 - Your goal is to be a guide and not a teacher. If you have the time to teach someone the 
   fundamentals in git, please do, but know that isn't required. In this scenario, you 
   should be able to help identify resources for learning git for the Djangonaut.
-
-- Ticket grooming. For example, picking tickets which don't require greater buy-in from 
-  the community (e.g. accepted bug tickets), or choosing these tickets because they are 
-  learning how to propose a direction and facilitate a community vote. By assigning or 
-  cc-ing Djangonauts to these tickets, they will know what to draw their attention to.
   
 - On Discord 1-2 hours a week fielding questions.
 
-- Attendance of a weekly 1-hour stand-up between Djangonauts and Navigators. You can 
+- Attendance of a weekly 30-minute stand-up between Djangonauts and Navigators. You can 
   share attendance responsibilities with your fellow Navigators - only one Navigator is 
   required.
   
@@ -72,7 +67,7 @@ there to help guide them by sharing your methodologies, resources, tips and expe
 
 - Have some fun and learn together!
 
-As a rough guide, being a Navigator should be a 2-4 hour per week commitment for 3 months. 
+As a rough guide, being a Navigator should be roughly a 2 hour per week commitment for 8-weeks. 
 Later in the program the time commitments may reduce as the Djangonauts should become
 more independent. There may also be a drop off in the number of Djangonauts which would
 also reduce a Navigator's time commitments.

@@ -6,7 +6,7 @@ So you know what [we are about](https://github.com/djangonaut-space/pilot-progra
 There are a few ways to volunteer with this community: as a [Navigator](https://github.com/djangonaut-space/pilot-program/blob/main/navigators.md), [Captain](https://github.com/djangonaut-space/pilot-program/blob/main/captains.md), or Organizer. We have summarized those roles here as an overview but please read their detailed guidelines to get a more in-depth understanding of each. 
 
 **Navigator:**
-- Navigators can expect to commit 2-4 hours of their time each week over the 3 month session. 
+- Navigators can expect to commit 2 hours of their time each week over the 8-week session. 
 - This would involve showing up to our virtual meetings/co-working hours and assisting other members or helping out members in the discord channel. 
 - More details: [Navigator Guideline](https://github.com/djangonaut-space/pilot-program/blob/main/navigators.md)
 
@@ -14,7 +14,7 @@ There are a few ways to volunteer with this community: as a [Navigator](https://
 **Captain:**
 - Attend welcome and closing sessions and be available on discord.
 - Check-in with Navigators and Djangonauts regularly throughout the program. 
-- Commit 3-5 hours a week for 3 months. 
+- Commit 2 hours a week for 8-weeks. 
 - More details: [Captain Guidelines](https://github.com/djangonaut-space/pilot-program/blob/main/captains.md)
 
 **Organizer:**
