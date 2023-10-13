@@ -13,13 +13,14 @@ Because we are an inclusive community with a large range of skill levels we want
 
 **What is Open Source Contributing?**
 - GitHub has created a great [Contributing Guide](https://opensource.guide/how-to-contribute/) to go over what it's about, the process, and best practices. We'd encourage you to read it over.
+- Django also has a [contributing tutorial](https://docs.djangoproject.com/en/dev/internals/contributing/). Going through this will make sure you're set up to tackle tickets.
 
 **What are the expectations of participants?**
 - Have good standing throughout the program and uphold the [code of conduct](https://github.com/djangonaut-space/pilot-program/blob/main/CODE_OF_CONDUCT.md).
-- Attend weekly meetings to recieve feedback and support.
-- A commitment of 4 hours a week over the course of 3 months.
+- Attend weekly meetings to receive feedback and support.
+- A commitment of 4 hours a week over the course of 8-weeks.
 - For more details about being a participant, please read our [Djangonaut Guidelines](https://github.com/djangonaut-space/pilot-program/blob/main/djangonauts.md).
 
 **I want to join, how do I sign up?**
-- Since we have scheduled sessions it will be difficult for members to join mid-session so we encourage you to sign up before the beginning of the session. More information will be available soon. 
+Check out our website for the latest information: [djangonaut.space](https://djangonaut.space)
 

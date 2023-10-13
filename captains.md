@@ -11,7 +11,7 @@ engage in periodic 1:1 sessions with Djangonauts. They keep the ship on course. 
 
 ## Responsibilities and Expectations
 
-In this 3 month program, you will support Djangonauts and Navigators to have a successful 
+In this 8-week program, you will support Djangonauts and Navigators to have a successful 
 experience.
 
 - Your goal is to embody the inclusive warm community that we have at Django. This
@@ -37,9 +37,9 @@ experience.
 - Help to build relationships amongst the group - this can be as simple as initiating 
   conversations and sharing in Discord.
 
-As a rough guide, being a Captain should be a 3-5 hour per week commitment for 3 months. 
+As a rough guide, being a Captain should be roughly a 2 hour per week commitment for 8-weeks. 
 Later in the program the time commitments may reduce as the Djangonauts should become
-more independent. There may also be a drop off in the number of Djangonauts which would
+more independent. There may also be a drop-off in the number of Djangonauts which would
 also reduce a Captain's time commitments.
 
 We have a fantastic community, and we appreciate the time you dedicate to ensuring 
