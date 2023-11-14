@@ -11,6 +11,10 @@ semi-structured learning environment.
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
 
+The Djangonaut program costs nothing to attend. It is supported by grants, sponsorships, 
+and is supported by the 
+[Django Software Foundation](https://www.djangoproject.com/foundation/).
+
 <a href="https://twitter.com/djangonautspace">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/X-white.png"/>
