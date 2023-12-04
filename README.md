@@ -5,15 +5,11 @@ Djangonauts are members of the community who wish to level up their current Djan
 code contributions and potentially take on leadership roles in Django in the 
 future. :unicorn:
 
-This is an 8-week group mentoring program where individuals will work self-paced in a 
+This is a free, 8-week group mentoring program where individuals will work self-paced in a 
 semi-structured learning environment.
 
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
-
-The Djangonaut program costs nothing to attend. It is supported by grants, sponsorships, 
-and is supported by the 
-[Django Software Foundation](https://www.djangoproject.com/foundation/).
 
 <a href="https://twitter.com/djangonautspace">
   <picture>
