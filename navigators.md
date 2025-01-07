@@ -1,16 +1,16 @@
 ## Navigator Guidelines
 
-After over 15 years since it was first released, the Django framework has become vast 
+After over 15 years since it was first released, the Django framework and its ecosystem of packages has become vast 
 and no one has all the answers. So it's not surprising that many find contributing to 
 Django to be intimidating.
 
 Our contributors rely on our docs, commenting on tickets, and interacting with others 
-to get up to speed. Whether it's using the Django Forum, Discord, mailing list, or 
-DjangoCons, contributors want to discuss the technical specifics, the landscape, or how 
+to get up to speed. Whether it's using the Django Forum, Discord, mailing list,
+DjangoCons, or similar, contributors want to discuss the technical specifics, the landscape, or how 
 to best to add value.
 
 By being a Navigator you engage in this conversation and can help accelerate someone's 
-path to being integrated and productive within Django. :rocket:
+path to being integrated and productive within the Django universe. :rocket:
 
 This program is designed to take everyone's time into consideration. We know it is 
 difficult to carve out steady time to support someone. When you're a Navigator in this 
