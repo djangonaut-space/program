@@ -98,8 +98,10 @@ the future if we have budget to support:
 ## Resources
 
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Djangonaut Space - Djangonaut workbook](https://djangonaut.space/resource/djangonaut-workbook/)
 - [Contributing Guide](https://docs.djangoproject.com/en/dev/internals/contributing/)
 - [Djangonaut Space - Launch](https://www.youtube.com/watch?v=SO5GGTZYK70)
+- [Djangonaut Space Ask Me Anything video](https://youtu.be/6bjCIOCpdM4)
 - [Contributing to Django - David Smith - DjangoChat](
   https://djangochat.com/episodes/contributing-to-django-david-smith)
 - [Feeding the Pony: Contributing back to Django & How to make that work for you - 
