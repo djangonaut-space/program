@@ -37,6 +37,7 @@ feedback. As well as ensuring all Djangonauts feel included and welcome. :heart:
 In this 8-week program, Djangonauts will be asked to take responsibility for their 
 growth and improvement, as it's a semi-structured self-paced program; however, you are 
 there to help guide them by sharing your methodologies, resources, tips and experience.
+Detailed guidance about Navigators can be found in the [Navigator workbook](https://djangonaut.space/resource/captain-workbook/).
 
 - Your goal is to be a guide and not a teacher. If you have the time to teach someone the 
   fundamentals in git, please do, but know that isn't required. In this scenario, you 
