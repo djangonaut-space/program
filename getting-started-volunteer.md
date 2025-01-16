@@ -9,7 +9,7 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 - Navigators can expect to commit 3 hours of their time each week over the 8-week session. 
 - This would involve showing up to our virtual meetings/co-working hours and assisting other members or helping out members in the discord channel. 
 - More details: [Navigator Guideline](navigators.md)
-- Detailed expectations can be found in the [Navigator workbook](https://djangonaut.space/resource/navigator-workbook/)
+- Detailed guidance can be found in the [Navigator workbook](https://djangonaut.space/resource/navigator-workbook/)
 
 
 **Captain:**
@@ -17,7 +17,7 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 - Check-in with Navigators and Djangonauts regularly throughout the program. 
 - Commit 2 hours a week for 8-weeks. 
 - More details: [Captain Guidelines](captains.md)
-- Detailed expectations can be found in the [Captain workbook](https://djangonaut.space/resource/captain-workbook/)
+- Detailed guidance can be found in the [Captain workbook](https://djangonaut.space/resource/captain-workbook/)
 
 
 **Organizer:**
