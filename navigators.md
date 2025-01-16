@@ -37,16 +37,16 @@ feedback. As well as ensuring all Djangonauts feel included and welcome. :heart:
 In this 8-week program, Djangonauts will be asked to take responsibility for their 
 growth and improvement, as it's a semi-structured self-paced program; however, you are 
 there to help guide them by sharing your methodologies, resources, tips and experience.
+Detailed guidance about Navigators can be found in the [Navigator workbook](https://djangonaut.space/resource/navigator-workbook/).
 
 - Your goal is to be a guide and not a teacher. If you have the time to teach someone the 
   fundamentals in git, please do, but know that isn't required. In this scenario, you 
   should be able to help identify resources for learning git for the Djangonaut.
   
-- On Discord 1-2 hours a week fielding questions.
+- Expect to spend 1-2 hours a week fielding questions on Discord asynchronously.
 
-- Attendance of a weekly 30-minute stand-up between Djangonauts and Navigators. You can 
-  share attendance responsibilities with your fellow Navigators - only one Navigator is 
-  required.
+- Attendance of a weekly 30 to 60 minute synchronus meeting with your Djangonauts.
+  If you have a fellow Navigator, only one of you is required.
   
 - Attend the program welcome and closing sessions.
 
