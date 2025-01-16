@@ -43,11 +43,10 @@ Detailed guidance about Navigators can be found in the [Navigator workbook](http
   fundamentals in git, please do, but know that isn't required. In this scenario, you 
   should be able to help identify resources for learning git for the Djangonaut.
   
-- On Discord 1-2 hours a week fielding questions.
+- Expect to spend 1-2 hours a week fielding questions on Discord asynchronously.
 
-- Attendance of a weekly 30-minute stand-up between Djangonauts and Navigators. You can 
-  share attendance responsibilities with your fellow Navigators - only one Navigator is 
-  required.
+- Attendance of a weekly 30 to 60 minute synchronus meeting with your Djangonauts.
+  If you have a fellow Navigator, only one of you is required.
   
 - Attend the program welcome and closing sessions.
 
