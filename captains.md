@@ -12,7 +12,8 @@ engage in periodic 1:1 sessions with Djangonauts. They keep the ship on course. 
 ## Responsibilities and Expectations
 
 In this 8-week program, you will support Djangonauts and Navigators to have a successful 
-experience.
+experience. Detailed guidance about Captains can be found in the [Captain workbook](https://djangonaut.space/resource/captain-workbook/).
+
 
 - Your goal is to embody the inclusive warm community that we have at Django. This
   may include celebrating successes or sharing personal stories (humanising yourself and 

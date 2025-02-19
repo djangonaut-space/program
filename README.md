@@ -80,6 +80,10 @@ know and love. :heart:
 ## Important Links
 
 - [Djangonaut Guide](djangonauts.md)
+  - [Djangonaut workbook](https://djangonaut.space/resource/djangonaut-workbook/)
+  - [Djangonaut workbook - third-party packages](https://djangonaut.space/resource/djangonaut-workbook/third-party/)
 - [Navigator Guide](navigators.md)
+  - [Navigator workbook](https://djangonaut.space/resource/navigator-workbook/)
 - [Captain Guide](captains.md)
+  - [Captain workbook](https://djangonaut.space/resource/captain-workbook/)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
