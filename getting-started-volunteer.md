@@ -23,7 +23,9 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 **Organizer:**
 - Responsible for organizing and leading meetings, update statuses on our website and GitHub, organization communication, Code of Conduct follow through, and recruiting volunteers.
 
+## I want to volunteer, how do I sign up?
+There are a few things:
 
-If you still have questions please reach out to us and we can help you find your fit by emailing contact@djangonaut.space! 
-
-
+1. Check out our website for the latest information: [djangonaut.space](https://djangonaut.space)
+2. [Subscribe to our 🗞️ newsletter!](https://buttondown.com/djangonaut-space)
+3. Reach out to us and we can help you find your fit by emailing contact@djangonaut.space! 
