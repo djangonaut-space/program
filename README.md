@@ -11,6 +11,8 @@ semi-structured learning environment.
 Want to be involved in the future direction of Django? Confidently vote on proposals? 
 This could be a great way to launch your Django contribution career! :rocket:
 
+[Subscribe to our newsletter!](https://buttondown.com/djangonaut-space)
+
 <a href="https://twitter.com/djangonautspace">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/X-white.png"/>
@@ -87,3 +89,4 @@ know and love. :heart:
 - [Captain Guide](captains.md)
   - [Captain workbook](https://djangonaut.space/resource/captain-workbook/)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Newsletter](https://buttondown.com/djangonaut-space)
