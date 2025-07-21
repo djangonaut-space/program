@@ -24,3 +24,4 @@ Because we are an inclusive community with a large range of skill levels we want
 **I want to join, how do I sign up?**
 Check out our website for the latest information: [djangonaut.space](https://djangonaut.space)
 
+You should also [subscribe to our 🗞️ newsletter!](https://buttondown.com/djangonaut-space)
