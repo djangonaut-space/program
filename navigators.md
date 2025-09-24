@@ -45,7 +45,7 @@ Detailed guidance about Navigators can be found in the [Navigator workbook](http
   
 - Expect to spend 1-2 hours a week fielding questions on Discord asynchronously.
 
-- Attendance of a weekly 30 to 60 minute synchronus meeting with your Djangonauts.
+- Attendance of a weekly 30 to 60 minute synchronous meeting with your Djangonauts.
   If you have a fellow Navigator, only one of you is required.
   
 - Attend the program welcome and closing sessions.
