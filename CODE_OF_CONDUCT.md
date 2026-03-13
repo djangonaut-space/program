@@ -153,3 +153,6 @@ their [guidelines][reporting-to-the-working-group].
 Reports should include the date of the incident, a brief description of the facts, the
 actions taken, and the outcome. Names and identifiable information should only be
 included when necessary for escalation purposes.
+
+[transparency-report-guidelines]: https://github.com/django/code-of-conduct/blob/803d7aab076f7b2144fb318fa40cf8900f395962/affiliated-programs.md#transparency-report-guidelines
+[reporting-to-the-working-group]: https://github.com/django/code-of-conduct/blob/803d7aab076f7b2144fb318fa40cf8900f395962/affiliated-programs.md#reporting-to-the-working-group
