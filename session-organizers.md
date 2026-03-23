@@ -26,6 +26,11 @@ We encourage everyone to:
   * Complete your assigned todos and mark it as completed
   * Collaborate in the session organizers' channel
 
+
+*The following are examples of what the tasks of every role are.* 
+*May vary according to different needs of the session, and based on the number of volunteers.*
+
+
 ### Role Specific Guidelines
 #### Navigators Coordinator
 You support all Navigators within the session, helping them succeed in their role.
