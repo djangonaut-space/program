@@ -21,7 +21,7 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 
 
 **Session Organizer:**
-Session Organizers are the team that assure the excellent success of our program. 
+Session Organizers are responsible for recruiting, coordinating and supporting the other participants in the session. 
 Team is formed with different roles:
 1. Navigator Coordinator
 2. Captain Coordinator 
@@ -30,7 +30,7 @@ Team is formed with different roles:
 5. Social Media and Blog Writer
 6. Discord Announcer and Email support
 
-For more information checks [Session Organizers Guidelines](session-organizers.md)
+For more information check [Session Organizers Guidelines](session-organizers.md)
 
 ## I want to volunteer, how do I sign up?
 There are a few things:
