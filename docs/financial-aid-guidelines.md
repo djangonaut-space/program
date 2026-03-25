@@ -60,4 +60,4 @@ To help make awarding financial aid easier for multiple applications for a varie
     - One of the events must be attended in service of Djangonaut Space
 - A limit of $150 per person for equipment, for five years
 - A limit of $900 total financial awards per event
-A limit of $2400 in total financial awards per year
+- A limit of $2400 in total financial awards per year
