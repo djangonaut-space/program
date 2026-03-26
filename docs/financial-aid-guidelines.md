@@ -21,8 +21,8 @@ An applicant must do the following:
 An active member is someone who fits one of the criteria:
 - Was a Djangonaut who attended at least three Navigator meetings during a session within the last six months
 - A Star who has done any of the following:
-- Attended a Djangonaut Space community event in the last month
-- Had at least three messages on the server within the last three months
+    - Attended a Djangonaut Space community event in the last month
+    - Had at least three messages on the server within the last three months
 - A Navigator who held at least four meetings in a session in the last six months
 - A Captain who met with their Djangonauts at least half the time in a session in the last six months
 - A Session Organizer who attended at least half the Session Organizer meetings in the last 12 months
