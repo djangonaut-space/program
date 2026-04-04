@@ -20,8 +20,17 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 - Detailed guidance can be found in the [Captain workbook](https://djangonaut.space/resource/captain-workbook/)
 
 
-**Organizer:**
-- Responsible for organizing and leading meetings, update statuses on our website and GitHub, organization communication, Code of Conduct follow through, and recruiting volunteers.
+**Session Organizer:**
+Session Organizers are responsible for recruiting, coordinating and supporting the other participants in the session. 
+Team is formed with different roles:
+1. Navigator Coordinator
+2. Captain Coordinator 
+3. Djangonaut Coordinator
+4. Presentation Coordinator
+5. Social Media and Blog Writer
+6. Discord Announcer and Email support
+
+For more information check [Session Organizers Guidelines](session-organizers.md)
 
 ## I want to volunteer, how do I sign up?
 There are a few things:
