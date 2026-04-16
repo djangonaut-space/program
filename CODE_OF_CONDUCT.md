@@ -143,7 +143,7 @@ in the following scenarios:
 ## Reporting
 
 Transparency reports will be published publicly on an annual basis. They will be made
-available on the django-commons.org website and in this repository. These reports
+available in this repository. These reports
 should be created according to the Django Code of Conduct Working Group's
 [guidelines][transparency-report-guidelines].
 
