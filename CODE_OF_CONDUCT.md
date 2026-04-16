@@ -137,8 +137,7 @@ we recommend that you file a report with Django's Code of Conduct Working Group.
 [Reports can be made directly to the Django Code of Conduct working group](https://www.djangoproject.com/conduct/reporting/)
 in the following scenarios:
 
-- The report concerns a Django Commons Admin and/or CoC team.
-- The Django Commons CoC team fails to respond to a report
+- The report concerns a Djangonaut Space Admin.
 - As a point of appeal within 30 days of the original decision
 
 ## Reporting
