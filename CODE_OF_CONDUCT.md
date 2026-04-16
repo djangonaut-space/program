@@ -131,3 +131,27 @@ our response, but we don't guarantee we'll act on it.
 If you feel uncomfortable filing a report with the Djangonaut Space organizers
 we recommend that you file a report with Django's Code of Conduct Working Group.
 [You can find those guidelines here.](https://www.djangoproject.com/conduct/reporting/)
+
+### Making a report to Django's Code of Conduct Working Group
+
+[Reports can be made directly to the Django Code of Conduct working group](https://www.djangoproject.com/conduct/reporting/)
+in the following scenarios:
+
+- The report concerns a Djangonaut Space Admin.
+- As a point of appeal within 30 days of the original decision
+
+## Reporting
+
+Transparency reports will be published publicly on an annual basis. They will be made
+available in this repository. These reports
+should be created according to the Django Code of Conduct Working Group's
+[guidelines][transparency-report-guidelines].
+
+Incident reports will be filed with the Django Code of Conduct Working Group according to
+their [guidelines][reporting-to-the-working-group].
+Reports should include the date of the incident, a brief description of the facts, the
+actions taken, and the outcome. Names and identifiable information should only be
+included when necessary for escalation purposes.
+
+[transparency-report-guidelines]: https://github.com/django/code-of-conduct/blob/803d7aab076f7b2144fb318fa40cf8900f395962/affiliated-programs.md#transparency-report-guidelines
+[reporting-to-the-working-group]: https://github.com/django/code-of-conduct/blob/803d7aab076f7b2144fb318fa40cf8900f395962/affiliated-programs.md#reporting-to-the-working-group
