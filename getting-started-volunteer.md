@@ -23,12 +23,11 @@ There are a few ways to volunteer with this community: as a [Navigator](navigato
 **Session Organizer:**
 Session Organizers are responsible for recruiting, coordinating and supporting the other participants in the session. 
 Team is formed with different roles:
-1. Navigator Coordinator
-2. Captain Coordinator 
-3. Djangonaut Coordinator
-4. Presentation Coordinator
-5. Social Media and Blog Writer
-6. Discord Announcer and Email support
+1. Officer Coordinator
+2. Djangonaut Coordinator
+3. Presentation Coordinator
+4. Social Media and Blog Writer
+5. Discord Announcer and Email support
 
 For more information check [Session Organizers Guidelines](session-organizers.md)
 
@@ -37,4 +36,4 @@ There are a few things:
 
 1. Check out our website for the latest information: [djangonaut.space](https://djangonaut.space)
 2. [Subscribe to our 🗞️ newsletter!](https://buttondown.com/djangonaut-space)
-3. Reach out to us and we can help you find your fit by emailing contact@djangonaut.space! 
+3. Reach out to us and we can help you find your fit by emailing contact@djangonaut.space!

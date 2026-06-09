@@ -6,12 +6,11 @@ You're not alone in your journey because Session Organizers are going to act as 
 
 ## Roles
 Each Session Organizer takes ownership of a specific area:
-1. Navigators Coordinator
-2. Captains Coordinator
-3. Djangoanut Coordinator
-4. Presentation Coordinator
-5. Social Media and Blog Writer
-6. Discord Announcer and Email support
+1. Officer Coordinator
+2. Djangoanut Coordinator
+3. Presentation Coordinator
+4. Social Media and Blog Writer
+5. Discord Announcer and Email support
 
 ## Responsibilities and Expectations
 Preparation begins before the 8-week program start.
@@ -31,27 +30,17 @@ We encourage everyone to:
 ### Role Specific Guidelines
 The following are examples of tasks for each role. These may vary according to different needs of the session and based on the number of volunteers.
 
-#### Navigators Coordinator
-You support all Navigators within the session, helping them succeed in their role.
+#### Officer Coordinator
+You support all the officers, Navigators and Captains, within the session, helping them succeed in their role.
 
 Responsibilities include:
-   - Recruiting and interviewing potential Navigators
+   - Recruiting and interviewing potential Navigators and Captains
    - Lead onboarding meeting with officers
    - Participating in onboarding/offboarding sessions
-   - Bi-weekly checkins with Navigators to ensure they are being supported in their role and they are fulfilling their responsibilities
-   - Copy and prepare Navigator workbooks 
-   - Communicate concerns with Captain Coordinator and Djangonaut Coordinator
+   - Bi-weekly checkins with Navigators and Captains to ensure they are being supported in their role and they are fulfilling their responsibilities
+   - Copy and prepare Navigator and Captain workbooks 
+   - Communicate concerns with Djangonaut Coordinator
 
-#### Captain Coordinator
-You support all Captains, ensuring they have what they need to guide their teams effectively.
-
-Responsibilities include:
-   - Recruiting and interviewing potential Captains
-   - Lead onboarding meeting with officers
-   - Participating in onboarding/offboarding sessions
-   - Bi-weekly checkins with Captains
-   - Copy and prepare Captain workbooks 
-   - Communicate concerns with Navigator Coordinator and Djangonaut Coordinator
 
 #### Djangonaut Coordinator
 You focus on supporting Djangonauts directly and ensuring they have a smooth experience through the program.
@@ -61,7 +50,7 @@ Responsibilities include:
    - Copy and prepare Djangonaut workbooks
    - Reach out directly with Djangonauts
    - Check-in as required based on officer feedback
-   - Communicate concerns with Navigator Coordinator and Captain Coordinator
+   - Communicate concerns with Officer Coordinator
 
 #### Presentation Coordinator
 You are responsible for organizing and presenting program events, such onboarding sessions and guest speaker talks.
