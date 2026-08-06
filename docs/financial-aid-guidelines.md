@@ -27,7 +27,7 @@ An active member is someone who fits one of the criteria:
 - A Star who has done any of the following:
     - Attended a Djangonaut Space community event in the last month
     - Had at least three messages on the server within the last three months
-    - Contributed to the Djangonaut Space community in any form, for example by contributing to the Djangonaut Space website. Each case will be carefully evaluated.
+    - Contributed to the Djangonaut Space community in any form, for example by contributing to the Djangonaut Space website.
   
 
 
