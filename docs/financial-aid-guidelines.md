@@ -78,7 +78,7 @@ To help make awarding financial aid easier for multiple applications for a varie
 
 ## DjangoCon Financial Aid
 
-This aid is due to a special, time-limited grant from the Django Software Foundation to help accelerate the growth of promising new contributors. It can only be used for attending a DjangoCon Europe or DjangoCon US event. **This is intended to be used by Djangonauts or Stars.** Existing community members are not eligible.
+This aid is due to a special, time-limited grant from the Django Software Foundation to help accelerate the growth of promising new contributors. It can only be used for attending a DjangoCon Europe or DjangoCon US event. **This is intended to be used only by Djangonauts or Stars in our community.**
 
 ### Expectations for recipients
 
